@@ -1,0 +1,20 @@
+﻿{
+    "bindings":  [
+                     {
+                         "authLevel":  "anonymous",
+                         "type":  "httpTrigger",
+                         "direction":  "in",
+                         "name":  "req",
+                         "methods":  [
+                                         "get"
+                                     ],
+                         "route":  "dashboard/latest"
+                     },
+                     {
+                         "type":  "http",
+                         "direction":  "out",
+                         "name":  "res"
+                     }
+                 ],
+    "scriptFile":  "index.js"
+}

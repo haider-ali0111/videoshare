@@ -1,0 +1,1 @@
+{"name":"video-share-api","version":"1.0.0","main":"index.js","type":"commonjs","license":"MIT","dependencies":{"@azure/cosmos":"^4.2.0","@azure/storage-blob":"^12.17.0","bcryptjs":"^2.4.3","jsonwebtoken":"^9.0.2","uuid":"^9.0.1","validator":"^13.15.15"}}
