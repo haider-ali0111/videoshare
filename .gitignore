@@ -4,3 +4,4 @@ dist
 *.log
 api/local.settings.json
 frontend/.env
+api/local.settings.json
