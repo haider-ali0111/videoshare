@@ -94,6 +94,3 @@ module.exports = {
   requireRole,
   requireAnyRole,
 };
-
-
-this is my api/shared/auth.js is it correct or not?
